@@ -26,7 +26,7 @@ scikit-learn
 ################################################################
 # TensorFlow v.2.1 and above include both CPU and GPU versions.
 
-tensorflow
+#tensorflow
 
 ################################################################
 # Some tutorials use other individual Python packages.
@@ -40,6 +40,6 @@ tensorflow
 # earlier tutorials. PrettyTensor is apparently no longer being
 # maintained and may not work with newer versions of TensorFlow.
 
-# prettytensor
+prettytensor
 
 ################################################################
